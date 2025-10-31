@@ -27,7 +27,7 @@ dependencies=[
     "mdformat~=1.0.0",
     "mdformat-myst~=0.2.2",
     "mdformat-deflist~=0.1.4",
-    "mdformat-footnotes~=0.1.2",
+    "mdformat-footnote~=0.1.2",
     "click>=7.1,<9"
 ]
 
