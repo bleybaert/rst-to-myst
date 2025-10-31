@@ -26,7 +26,7 @@ dependencies=[
     "markdown-it-py~=3.0",
     "mdformat~=1.0.0",
     "mdformat-myst~=0.1.5",
-    "mdformat-deflist~=0.1.2",
+    "mdformat-deflist@git+https://github.com/executablebooks/mdformat-deflist@master",
     "click>=7.1,<9"
 ]
 
